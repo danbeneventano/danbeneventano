@@ -6,6 +6,6 @@
 
 📄 [My Resume](https://resume.danbeneventano.me)
 
-🔗 [LinkedIn: danbeneventano](https://www.linkedin.com/in/danbeneventano)
+🔗 [danbeneventano on LinkedIn](https://www.linkedin.com/in/danbeneventano)
 
 [![danbeneventano's github stats](https://github-readme-stats.vercel.app/api?username=danbeneventano&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
