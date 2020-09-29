@@ -2,6 +2,8 @@
 
 📚 Computer Science student @ Colorado School of Mines
 
+⌨ Favorite languages/frameworks: JavaScript, TypeScript, Node.js, Vue.js, SQL, GraphQL, HTML/CSS
+
 🌐 [My Website (danbeneventano.me)](https://danbeneventano.me)
 
 📄 [My Resume](https://resume.danbeneventano.me)
