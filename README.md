@@ -1,4 +1,4 @@
-📢 &nbsp;Co-Founder and Lead Software Engineer @ [CometX.io](https://cometx.io)
+📢 &nbsp;Co-Founder and Lead Software Engineer @ [CometX](https://cometx.io)
 
 📚 &nbsp;Computer Science student @ Colorado School of Mines
 
