@@ -1,4 +1,4 @@
-📢 &nbsp;Creator of [Comet - All-in-one chat and forums for communities](https://cometx.io)
+📢 &nbsp;Creator of [Comet - All-in-one chat and forums for communities.](https://cometx.io)
 
 📚 &nbsp;Computer Science student @ Colorado School of Mines
 
